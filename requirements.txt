@@ -2,3 +2,11 @@ scikit-learn
 matplotlib
 nltk
 gensim
+squarify
+youtube-transcript-api
+pandas
+requests
+json
+googleapiclient.discovery
+string
+xml.etree
